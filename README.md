@@ -25,8 +25,7 @@ project/
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Mech-Kal/jokes-api-project
 ```
 
 ### 1. Install Depedencies:
