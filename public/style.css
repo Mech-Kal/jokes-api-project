@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  input, button {
+    font-size: 16px;
+    padding: 10px;
+    margin: 10px;
+    width: 80%;
+  }
+  
+  .joke {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
